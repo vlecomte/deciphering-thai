@@ -1,4 +1,4 @@
-inspired in part by the [norsk experiment](https://www.apronus.com/norsk/), i am attempting to decipher the thai language purely by watching tv shows.
+inspired in part by the [norsk experiment](https://www.apronus.com/norsk/) and [monolingual fieldwork](https://en.wikipedia.org/wiki/Monolingual_fieldwork), i am attempting to decipher the thai language purely by watching tv shows.
 
 the current rules:
 - no subtitles

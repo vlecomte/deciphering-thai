@@ -1,4 +1,4 @@
-*See also: [[Thai inventory so far]]*
+*See also: [[Thai vocab]]*
 ## 2024
 ### Nov 3–4
 (watching 海洋之恋)
@@ -365,6 +365,8 @@ start of ep. 5
 		- tai24: picture
 		- where is "us"??
 	- maybe it was "a picture *without* you two"??
+- men mu4 hong1 bai41 gån1: then we'll be on our way!
+	- maybe "mu pong1" is "we"?
 ### Nov 27
 (till end of ep. 5)
 - hao2 ne4 lau25: please stop / that's enough (from œi's mom to œi's dad)
@@ -429,7 +431,7 @@ start of ep. 5
 	- sip32 lo xap?: did you say sip?
 	- dzam43 sip3 dai24 me loo42: your good friend sip (wild guess)
 	- pi5 jin253 // **nong43** sip52: seems like nong is the counterpart of pi, aka younger sibling?
-- a nit34 pong21 se3 wa5 fa21 xap: i brought this for you (wild guess, while giving a present)
+- a nit34 pong21 se3 wa5 fa21 xap: i brought this for you (wild guess, while giving a gift)
 
 (ep. 6 till)
 - (wait why is he so upset about this? did he just discover sip was his cousin or something??)
@@ -807,7 +809,7 @@ start of ep. 5
 - soomg21, om dyo42 pong1 le: (after he stubbed his toe) you're ~~blind~~ clumsy, just like me (?)
 - pong lai41 xun o: i hate you
 - e mo21 ben ai pueøt4 (??) mœ hæ21: this is mo's sister
-	- mi lai31 gap, hye32 ding lœ gan: she's here to apologize (?) / with a present
+	- mi lai31 gap, hye32 ding lœ gan: she's here to apologize (?) / with a gift
 - lyub mi21: goldfish? (specifically i think lyub is fish)
 - pa pong be4 ha1 hau32 dai me pi: can you take me to see him?
 - hau2 jing45 a?: really?
@@ -844,6 +846,7 @@ start of ep. 5
 - na lå21 li4 na: just stay here a moment / i've got this
 - pong mæ2 mai han14 na cø2li shø43 wat4 last twilight: i'm looking for a book called last twilight
 	- me mi31 nœ xap: we don't have it / i couldn't find it
+	- *edit 2026-11-16: could be "nat sø1 li" in which case "li" could be a relative clause marker?*
 - sa na41 be me lai diœ nœ, lyok au41 huam25 pomg: escalators are fine right, just wait for my call
 - lu24 sœ52: shopping for clothes
 - mœn dai24 mœn dai24: step ahead!
@@ -915,12 +918,12 @@ start of ep. 5
 (ep. 4 till 0:52)
 - pi hau2 et mång52 mu nue: bro sings pretty well / is talented / is attractive
 - yim32 mai51 lup1 le: he's quite handsome
-	- **yim32**: could be either "handsome" or "looks (appearance)"
+	- yim32: could be either "handsome" or "looks (appearance)"
 	- jing4 o: really?
 - (aaaaaah falling asleep on him 🥹 nice strattttt)
 ### Nov 9
 (till end of ep. 4)
-- ja yan, ja yan31: careful/steady! (not to fall over)
+- ja yen, ja yen31: careful/steady! (not to fall over)
 - le25, o nam25 ba: you should wash up
 	- (could also have been "change into pyjamas" or "sleep" but the "cleaning" earlier, and also "use the restroom" suggests that "wash up" is more likely)
 	- mai ao21: i don't wannaaaa
@@ -1115,7 +1118,7 @@ start of ep. 5
 		- he4 could be a modal verb potentially? but otoh dai mai could totally just fill the role on its own
 	- dai51 di... xap: sure!
 	- (that level of gameeee omg)
-- pi måk32, mot11 he4 noi2 dai mai a: måk could you give me a leg massage?
+- pi måk32, mot11 he4 noi2 dai mai a: måk could you give me a massage?
 	- guot1 luak41 lœi32 nia31: my leg is super sore
 	- mæh4, mæh4, mæh42: sure anything you want
 	- ui pi, chak3 chi42: ooh that's ticklish
@@ -1145,7 +1148,7 @@ start of ep. 5
 	- but yeah it also makes me feel like i'm not ready to switch to a tone number system yet
 - mm, håm1 kin me li24 ba pi: oh it smells of jasmin here doesn't it?
 	- and håm1 sounds similar to "håp1 jang43: it smells nice", so that's one to track
-- œ, pi måk2 båg (?) wat4, pi pao1 jai gam lai mi33 nong25 lœ xap: måk told me you were pregnant?
+- œ, pi måk2 båk (?) wat4, pi pao1 jai gam lai mi33 nong25 lœ xap: måk told me you were pregnant?
 	- wat4 is maybe a particle that introduces the rest of the sentence?
 	- ki5 (or gi) dø3 a la ha bi532?: how many months has it been?
 	- ha43 dø2 a4 la1 wa41: it's been 5 months
@@ -1159,14 +1162,15 @@ start of ep. 5
 - na pong shøœ42 wat, pi cham1 dai41 na: i hope everything will go well (with your pregnancy) / i wish you good luck
 	- hmm søœ42 is reminiscent of "lu24 me41 shyœng52 ni1: good luck (wild guess)"
 	- so maybe that part is "祝"
-- pi shåp4 shø5 mi2231, mœ2 ne3 last twilight nœ4 le: i like a book called last twilight?
+- pi shåp4 shø5 mi2231, mœ2 ne3 last twilight nœ4 le: ~~i like a book called last twilight?~~
+	- edit 2026-11-16: must have been "i like the name mi from last twilight"
 	- i'd put good money on shø4 being "book"... but it could also be "title" i guess
 	- a, pi lu24 jak1 lœn3 ni25 lø lå15: you know about that??
 	- lu2345 si52: i do!!
 - hau31 såm24 gon13 belåi42 de43 fang3: he won't stop talking about you
 - pong shyø41 a: i hope so
 - ha43 bø21 nia51, håmg1 pi shu3 å5 le: 果然, it smells like you
-- (omg is this a fucking sleepover 🥹🥹🥹)
+- (omg is this a sleepover 🥹🥹🥹)
 - me lå1 ni42 nœ xap: i'll be right back
 - håm1 jang4: smells nice!
 	- lång2 do41 me: do you want to smell it too?
@@ -1357,4 +1361,324 @@ start of ep. 5
 	- nong måk42 ni hång1 di43 mne2 ni4 wa33: måk this is freaking delicious
 		- "hång1 di41" meaning delicious would make sense given the earlier milk product placement lol
 ### Nov 14
-(ep. 9)
+(ep. 9 until 0:51)
+- (omg so domestic 😭)
+- o11, pi41, må11 bå41 gœt lø21 we lai41 dœng4 sam11 dø4 œn: it's only been three months (?? what is?)
+	- dœng4: only?
+	- wu41 mi25 (??), a pong11 me du41 bu4 kau1 last twilight dai mai?: (... weird way to ask to cuddle huh)
+- hei hei, lyo24, a huan24 shøm3 lœi4 be dœ41 di1: wait, we wanted to return the book
+	- why is the word book so squishy??
+	- huan24: give back?
+	- lœi25 dyan25: hey dyan (?? is that his name? what's the deal with this guy's name??)
+	- ni mœ long huan3 di4 de32 hai42 pi52 nie, (inaudible): why are you giving this back to us?
+- (ohh was last twilight set in that city? are they reenacting? :o)
+- oi, jœ25 læu51: oh, that's the one (building mentioned in the book)! / found it!
+	- bek long1 ba253: (probably the place's name)
+	- låi3(4) yang4(3): 拍好了? 
+		- might be just "finished yet"?
+	- ma41 hai1 lø gan4: let's take a selfie
+	- gong4 yu nai1 a: where's the phone/camera?
+	- hœng1 di hœng1 di lœng1 di: over here!
+		- yeah i'm not sure if it's h or l, rip
+- ham3 (?) høn4 meng44 yu nai wa nia: where's this [thing they're looking for]?
+	- oho, pa4 nian4 møt hø32 meng4 hai25(3)
+		- no idea what this means but this is evidence i'm still crap at recognizing tones 
+- nit43, chai hå we4 hå21 wa pi?: (is this the right place?)
+	- chai41 (inaudible) kap:
+	- lœt, hamg hø4 meng4 yu nai a pi: so where is hø meng?
+	- (unintelligibly provincial response)
+- dong1 nia la nå25: this is it (the hotel?) right here!
+- pan1 ha41, wat1 jam3 ha4 låi25: (saying the price for the room)
+	- on32 de me pi: can we pay by card?
+- œi pi, lyo21 di51!: wait, ma'am! (as she was leaving bc they don't have cash)
+	- wæ41: what's up?
+	- pong1 a la gœ ja da44 båt11 œ: i'm going (??) blind
+	- pong1 nia høn me lo32 siang sø tai4 bøn4 bu4 hau21 wa
+		- similar to "bu4 kau1" when he was asking the question about last twilight? :o
+	- (showing book) dam11 ti44 ni ai2 lœm4 ni3 kie21 wa ya
+	- ni43... ha de ben kœn4 sø3 tai4 bon håm le24 wa dai41 ya?: do you think you could help us fulfill that dream?
+	- de43 wit1 hœ he ma pak diu1 ti ni41: (asking a question about a character named david in the book?)
+		- or maybe the author?? :o
+	- hun3 de4 ki3 nœn1 sø1 last twilight ye41: the author of last twilight?
+		- okay i'm going to go on a HUGE limb and say this is my first relative clause
+		- hun = xun: "the person"
+		- de4: who
+		- ki2: write
+		- nœn1 sø1 = the book (i already had a suspicion that nœn = the from earlier)
+			- i mean it's not necessarily "the", could be a counter, or could be saying it's a novel instead of the generic "book"
+		- wait this fits so well wow
+	- a, ham nam42 œ me shyø41 a: you don't know about him?
+		- (okay i really need to regularize orthography for things like shyø... maybe it should be shiø?)
+	- e, el3 bau41, a me di4 mo43 na, shye4 yang2: look, that's him! with me, 帅吗 (lol) / he signed
+		- **shie41**: sign (not calling it yet but seems likely)
+	- œ42, jing32 lu wa de: huh this is real, day!
+	- lå1 pi4 shœ21 li41, lap hu4 yu41 wa: my name is shirley, i'll let you two sleep here (??)
+- pi shœ21 li41 xap: hey, shirley
+	- pi shirley kœi3 chœ3 xun de43 wi3 dø31 xap: did you know david well?
+	- (some story telling), luk sa21 hång1 de44 wit h1 ja4 da43 båd21: i found out that david was blind (??)
+		- ... could ja be "is"???
+		- it does seem to be very often used in between subject and predicate
+		- (but that includes several time with da båd specifically which is suspicious)
+	- nit, sa dend wat, bu hau lu25 (...) jai ti ta mai hå ki en last twilight lœ xab: (i think he just asked her if she knew why he called it last twilight?)
+		- actually the way she reacted afterwards makes it seem like it was more of a yes-no question
+- a, la2 be ked sang43 a ni4 gua1: oh i need to start putting things away
+	- (it's weird it seems like she's referring to herself as "la" or "lå"...)
+	- e, pi ge3 nie3 pong1 be shu42 e ne: oh can i help you?
+		- ooh similar to "pi shu42 ne le ba: can you help me out?"... okay calling it
+	- **shu42**: help out
+	- de43 lå11 ni41 ne: day you can stay here?
+		- lå11: stay
+- m323453, na pai11 dœ3 nia51: oooh you're talented! (at playing the guitar and singing)
+- pi51, mot1 ha3 sœ41 hå pø31 dai mai: can i remove your shirt
+	- "shirt" makes more sense here than "clothes" so sœ was probably shirt all along
+	- dai nia~
+	- (i do NOT understand the idea of removing shirts before you even start kissing but you do you)
+		- LMAO they switched shirts
+- xuam1 ne sø3 kang1 le41 nia: you're quite eager!
+	- mi1 he4 hœng1 gyø41 sœ mœ (maybe "shai mai"?): you've run out of kisses for today
+	- låh32! ... de4 ne41 jai12 œh1, wån4 dœ mi1 ya hang41 dyo31: fine! but that means i can kiss you anywhere else? / anything other than a kiss is fine?
+- pi shiø, xåp xun mæ nœ xap: shirley, thank you so much / for everything
+	- (when we get back), da3 lip song1 gen ga11 ma4 hai41: 
+		- hai41: money?
+	- oi251, ta bai114, me be lai: no it's all good
+- det31 chat51 le wa, hœ4 nie14: the sun is bright today!
+	- det31: sun?
+	- chat51: bright / 晒?
+	- hœ/hø: today
+- høi, mi1 nas4 tai11 løe41, he1 mi3 le3 sen3 de4 wid1: woah it's signed by david :o
+- de, wai25 mai: are you doing okay (walking this tricky terrain)
+	- wai11 mai25? wai11 yu41: doing okay? yup hanging in there
+		- då21 nin4 hua1 mai25 a?: how about we rest here?
+	- nan41 prat3 gån41: there is a bench
+	- me be lai, me yœn dång41 hœ1, yo1 me tan41: i'm fine, we don't need to stop, i'm not tired (yet)
+	- oi, pra1 bat4 dio41, gi3 nam25 gån41: hey hey, let's sit for a bit, drink some water
+	- heck yeah, calling:
+		- hua1: rest
+		- nan41: let's?
+		- **prat3**: sit
+		- **gån41**: a bit
+		- **gi4**: drink (or "take"?)
+- de lå21 ni na, lyo pi me: stay here, wait for me
+	- lå21: in one place
+- mœng yu nai1 na, hø3 ni3 mæ41 ha3 ja4 gam1 ba4 la13 na: where are you, de's (??) mom is in (some kind of) danger / wants you to come back
+- mœng ye bau, e måk, mœng le43 pai11 de42 gœ mai le: you have to, måk... you care about day don't you?
+	- mœng tamelai jin xap?: what am i supposed to do?
+	- mœng lu24 duo42 me de ma tamelai yu: you already know what you're supposed to do
+- o pi, e de24 me tå11 da44 shai ba?: bro do you think i hear through my eyes / you think i'm deaf in addition to blind? (wild guess lol)
+- gap bœn hœ, håi ma me wœn lang la gan: who were you talking to?
+	- de34 på41 hœ: with your dad
+	- (... if true this contradicts the possessed-possessor syntax that was beginning to be a pattern?)
+### proposed spelling reforms
+- stops should use -d, -g except when actually aspirated?
+	- ... that would be quite destructive
+- ~~use h instead of x?~~ nope they're meaningfully different in front of -a
+	- instead you should write hu- as xu- because i don't think there's ever a pure h- sound in front of -u-
+- use i, not y (except for initial)
+- si- for that weird shy- sound? ehh shi- seems better
+- use -ng instead of -mg until further notice?
+- ... need something for glottal stop? ohhh -q is right there, that's an obvious choice
+- ~~stop writing œ at all? it's kind of a default vowel, and also i keep quitting obsidian by pressing command+Q instead of option+Q~~ no this would be ambigious in many cases and also not account well for cases where i'm not sure if it's œ or ø
+### Nov 15
+(till end of ep. 9)
+- hœng2 læu25 pi! // mm31, hœng lau!: we made it (to the top of the hill)! // yup
+	- oh wow i just realized that hœng21 and høng21 have both showed up as "jealous" but i apparently never realized?? calling it i guess
+	- **høng11**: jaelous
+	- (this is maybe also the clearest homophone i've seen since lap?)
+
+(ep. 10 till 0:54)
+- ma4(1) (?) gap mæ421: come with mom (we need to have a talk)
+- pong da44 bå11 sa3 nit4(2) lau1 shai me xab mong: i'm blind for life am i not? (speaking to the doctor)
+	- må21 sie1 jai3 lun4 na: most probably (?)
+	- sie1 zai3 duœ43 nœ xap: (repeating) i think so
+	- (...)
+	- pong å4ke32: i'm fine
+- nai114, pa3 nåk21 (??) høn4 hång44 bah: nai, take your brother to his room
+	- the vowel in nåk sounded very nasal, maybe i need a new vowel?
+	- mæ mi3 dø43 ja kui gap måk31: mom needs to have a talk with måk
+		- mi3: talk?
+		- (it's never been super clear cut but it came up many times)
+- pa43 sut ha1 ti5 de44 ho4 hen21 na, manœn pa43 ba4 lai1 å: (she's either firing him or having the "will you take good care of my son" conversation)
+	- (måk) pa43 did4 då21 xap
+	- (mom) la soei11 mai?
+	- (måk) soei31 mæn41 xap... se dai nœ xap, (unintelligible)
+	- (okay sadly i have no idea what anyone is saying)
+- (rip it she *was* firing him)
+- ooooh she's about to get a whooping
+	- does "pa43 ba4 lai1" mean "fired"?
+	- sam blab de43, hå1 be3 shai42 xep pi lieng24 xun4 nœn3, hå ben mak43 wå(t)31 nœn24: but i became attached to måk... and i fell in love with him (??)
+	- håt ho44 lœ xap: (apologizing for having her son fall in love with him?? bruh)
+	- (she probably can't understand this because love brought her misery)
+	- (bruh)
+- wei24 (??) dai me?: ~~are you ready to be abducted?~~ is now a good time (to call)?
+	- dai41 di: yup!!
+	- could be related to "lœi24 mei?: can i? / are you ready?"
+	- "lieng1 xun4" popping up again
+		- (i think i was influenced by 联婚 before lol)
+	- (...)
+	- hen11 de43 shøœ3 pi41: i *am* at your house (??)
+	- mœn ngai241, bœn3 yang41: (guiding him forward to the window)
+	- nai1142, ja be hen1 deng41 ai24: where are you? i can't see you (?? idk man)
+	- de (?) pi he11 lœ na: but *i* can
+		- hen11: to see?
+		- chus4 si1 såm41, hœn geng33 ha1 san41: (describing his clothes i guess)
+			- which are an orange shirt and blue shorts
+	- pi de lå3 hø41 lœ na: i finally got the car back (??)
+	- nn, ång1 wa41 na: uh-huh, talk to you later!
+	- œi pi, ke4 ni4 gån41 na: wait one more thing
+	- bai ja mul4(1) lå a: be careful on the road (??)
+- why is he sayng "mœn dœm432" in a random conversation with his sister while cooking food???
+- a ni men ø31 lå wa: oh that one (soup) got cold
+- de43, ke3 ni4 gån a: de, talk to you later (i've got to go)
+- på (?) selfie: let's take a selfie
+	- mæ43 o sang2 wa ya: mom asked me to send one
+- lyo3 xun4 e nai di: do you know where nai is?
+	- mmm, me mi21 na: (looks around) hmm i can't see him
+- xun24, xun24: (attracting her husband's attention)
+	- xun24: 老公?
+- wat di25, xœi pi (...) workshop (...) xun da44 båt1 n: (saying he's about to have a workshop ~~where people simulate being blind~~ more generally just a workshop where blind people and their companions experience arts)
+	- wat di25: today??
+- bit da44 na35?: did y'all cover your eyes yet?
+	- oke, ma51: okay, start!
+	- bå bau25, bå bau25: start dancing (or moving around?)
+	- yok mø43, dai na xap: move your arms, very well!
+	- yok mø4, yok lœi4352: move your arms and your legs?
+		- similar to "guot1 luak41 lœi32 nia31: my leg is super sore"
+		- **lœi43**: leg
+		- **mø43**: hand (honestly surprised i hadn't called that one before)
+	- pi måk, au31 nåi25, au31 nåi25: måk, come on get more into it (lol)
+- a ni25 lu sœk31... sa4 at11, sa4 ar11 a: (describing the smell of the white thing)
+	- lu sœk31: scent?
+	- some chance that it's related to "lø søk41 mai: you felt it right?"
+		- after all in french "sentir" refers to both touch and smell (among others lol)
+		- actually i kind of buy it
+	- dai41 xap dyan21: sounds good dyan
+		- (but might have transcribed it as jan if i hadn't looked back)
+	- men si21 tå3 bai41 na: wanna smell/try another one
+	- beng31 e?: can you tell what it is?
+		- (just the same beng41 meaning 会 i'm guessing)
+	- a ni25 lu5 sœk31... wan31 po la mai33 blio41 å: this one smells like... (who knows)
+- a ni25... lu sœk31... såt2 chøn43, sa4 nuk21 sa4 nuk21 (...): (about the drink they're sponsoring) this one smells like refreshment, apple, flowers, the beverage of the gods
+	- (afterwards they continued making a big deal about såt1 chøn42)
+	- oh lmao that's the exact same thing that he was saying about the milk
+		- except i had it as "såt1 chø43"
+		- could be "fruity"??
+- mai shu21 wa (bites his lip): that's not enough (kisses)
+- weng25: can i come in (to your room)?
+	- di24 le: for sure
+	- (mumbling) n yu31 fang1 nai41 wa: where is the hole (of the shirt)
+	- bœng1 ge mœng42: do i look good?
+	- di24 lå: you bet!
+	- œ mœng41 må43 ho24, he me dam11 a kue3 due41 wa: mom wanted to talk to you
+- mœ2 li4 kis1 mat4 na luk42 nah: merry christmas my son
+- mœ3 li4 xit1 mat4(1), pi: merry christmas boss!
+
+(ep. 10)
+- chen24 dang41 xap: welcome / please take a seat
+- fag21 nœi25: i'll put my bag here
+- ne pi52 lun25 le ne: i improved / went all out (with my cooking) didn't i?
+- gin21 be le bæh41: eat/have a little bit (of the food)
+	- like before, while holding out the fork (but this could just be selection i guess)
+- œi, jing32 (or even 21) mai nia: oh really? :o
+	- what's going on with the tones of this word?
+- pen4 dek31 de32, (??) si41: i do have a gift
+	- pen4 dek31: gift
+	- lap3 da43 gån41: close you eyes for a moment
+	- lap bai25 nia: did you close your eyes?
+	- lap lœ xap2345: i did
+	- lyum2 da44 dai41: you can open your eyes now!
+- be nie, suåi1 me: (about the oven mitts) do you like them? do they look good?
+	- possibly related to: shwei1, sue1?
+- pong hun4 hå11 he de32 hå1 mai41 ying xap: (to de's mom when she discovered they were having a secret christmas dinner) maybe "i'm having dinner with de right now and you are not invited"
+	- long3 pe4 ban2 hå1 ba båk321, lo2 de4 da322 lo na lu34!!: i just heard from the doctor, he said that de's eyes can be fixed!!
+	- what a TWIST
+
+(ep. 11 till 0:06)
+- ya4(2) ma25 la: i'll be back (having a smoke)
+- man ya dong4 oke xap, xun mån41: he'll be okay, ma'am
+	- or maybe "everything will be okay"?
+- (it's so interesting how the formal speech has all those rolled r's and this happens *never* irl)
+- mæ44 eng31: (de's mom) i'm here
+- beng3 he3 bang44 luk31:
+	- seems like 41 always becomes 31 after 44?
+- mæ43 o, løm25 a lai41 ya: mom? what's up? (why are you back)
+	- løm32 (??) låk4 ba do1 hång41
+	- is it a sandhi rule that 25 becomes 32 before short 4??
+### Nov 16
+(ep. 11 until 0:43)
+- (later) ya kin4 na wa pong løm33
+	- me løm334
+	- (i'm so confused)
+- nai323, kap4 e gån41 ba: nai, how about you go (to visit de in his hospital room) first
+	- mæ4 ca hue (??) gap måk nåi: mom is going to have a talk with måk
+- pong2 håt1 hot43 xap:
+	- (more sandhi?)
+- po1 gat4 de32 = pong gap de??: me and de
+	- if true, confirms the phenomenon where the next consonant can affect the pronunciation of stops
+- ne, ne, yut2 lœi41, yut2 lœi41: cut it out you guys stop (play) fighting
+- å yu4 di xap: (doctor speaking) good afternoon (??)
+	- beng3 ai4 bang41: we can remove the bandage
+	- dœt3 den42 me?: you ready?
+	- ya lå33 bœet21 da44 gœ ni gua: (maybe *this* one is "we're going to remove the eye bandage"?)
+	- ha4 yåp2 mæh42: can you stand up?
+- de432, de43 hen1 mæ43 mai35?: de, can you see mom?
+- mæ, e må21 mi hin21 nœ: mom, i can't see anything
+	- må21 xap: nothing at all
+	- pong2 må1 me hin21 nœ xap: i can't see anything
+- (inaudible) ja4 yen3 gån31 nœ xap: could you calm down a bit
+- må21 ha båk21 wat35, (...): the doctor said, (...)
+	- båk21: said
+	- må21 ha: doctor
+- pong ång21 a lai me hen1(3): i can't see a thing (?)
+- nång2 shø43 a lai a xap: what's the baby's name?
+	- shø mi3232: he name is mi
+	- dang4 da42 nœn1 sø2 last twilight nœ le: it comes from the book last twilight
+	- ohhhh so shø and sø were completely separate words the whole time lmao
+- pong1 hå4 lång4 cham41 nång2 mi432 de me xap: can i touch baby mi?
+	- (also possible it's just what i used to transcribe as "nong" erroneously)
+	- cham41 = chap41 (but with stop consonant)
+- nim43 chang21: it's so soft
+- ya2 lång1 wum4 me25: do you want to hold it?
+- pi wa nong3 a shåp44 de ne: my sister seems to like you a lot
+- nøn25, liå2 pong1 bai41 gån na xap: then i'll be on my way
+	- de43 pi bai gån na: de, i'm leaving
+	- hei, lyo21 di41: actually hold on!
+	- mæ hå1 e4 fak21 shøe3 mœng21 due41: mom invited you (to stay)
+	- dyån4 (??) pong21: invited me?
+- sut21 mæ4 heng32, måk21 lång4 chim4 lu21 si41: (??), måk try / have some of the chim lu
+- mæ42! de322, hå1 bai gap pi måk dai me: mom is it okay if i go with måk?
+- de34 yak2 bai41: i want to go
+- ngan3 mæ43: what's your opinion mom? (literally, "according to mom?")
+- ngan4 mæ432, fang21 nong rœ42 gap na måk: it's fine as long as you're with måk (??)
+- mæ42 hå3 båk21 wat432 (...): mom said that (...)
+- ab1 nam25 gån41: (we'll do that) *afterwards*
+- men3 ye41 bah?: did you have a nightmare?
+- gœ pi geng43 pong gån421 œ, sa me dai a: but you prank me too do you not?
+- pe nång bu4 shai32 ti4 da33 båt1 ha ma tam21 ni me kap: have you seen a blind guy walking around here
+- hot4 hi nœ xap: excusee me
+	- he nång bu shai hi4 da båt (inaudible)
+- oo25, dyap2 dai41 leu2345: ooh, caught you!
+- ta31 pong dong4 yu21 gap pi, (??) du43 le32 due21 he4 dai41 ba: when i'm not with you i've still gotta be able to get around
+
+(until end of ep. 11)
+- sœn3 ya25 lœ nœ?: pink promise?
+- nam nang25 e3: the water is warm!
+- pi hån41 lak3 de32 le na, lu24 ba: i really love you, you know that?
+- pong1 gœt44 xod4 lak3 pi41 leu24: i also really love you
+- låi4 de32 men shai me: you worry about day don't you?
+- e, hong1 fa41 gu1 wa, lu2 di42: oh a gift for me? got it (forcibly grabbing)
+	- hong1 mœng me mi22 we: no those are not for you
+	- mi de hong1 mæ42: they're is for mom
+	- fa41: for?
+- de32... hå1 deng41 jå ne pong1 a lai ngœn3 len a xap: day... can dance so well he won an award band
+	- beng42 due31 di: dance for us
+- oi de, på lå bao114 gån25: day, take off your backpack (before lying in bed) lol
+- pa41 a lai41: what are you looking for
+	- sai41 sha25 ra41: (thing he's looking for
+	- yu41 a pi34 ba41: is it with you?
+	- mai gœ bao11 pi yu (??) gœ bao11 de nœ la!: if it's not in my bag it's in your bag
+- pi sa2 pong ha41 do3 dai21, pong ho (??) me lap3 luo4 sap21: i have sa's death on my conscience, i didn't pick up her call
+- ta pong me da43 båk21 nia, (unintelligle): if i weren't blind
+- å lø41 hœnœ: let's break up (????)
+- mæ men e4 xuong1 de24 e kå låk41, ben xuong1 måk21 hœ3 mæ44 gua21: i'm thinking of adopting måk??
+- mæ me lu e måk kåt3 sa4 oke mai?: i don't know if måk would be okay with it?
+- (idk what's happening but it seems very stupid and solvable)
